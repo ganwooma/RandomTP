@@ -4,7 +4,7 @@
 
 ## usage
 ```
-/randomtp \<centerX\> \<centerZ\> \<radius\>
+/randomtp <centerX> <centerZ> <radius>
 ```
 
 ## build method
