@@ -5,3 +5,5 @@
 
 ## build method
 Build with ./gradlew shadowJar
+
+![icon](images/icon.png)
