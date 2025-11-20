@@ -6,4 +6,7 @@
 /randomtp \<centerX\> \<centerZ\> \<radius\>
 
 ## build method
-Build with ./gradlew shadowJar
+Build with
+```bash
+./gradlew shadowJar
+```
