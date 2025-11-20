@@ -1,0 +1,9 @@
+name: RandomTP
+version: '1.0'
+main: com.ganwooma.randomTP.RandomTP
+api-version: '1.18'
+commands:
+  randomtp:
+    description: Teleport all players to random locations
+    usage: /randomtp <centerX> <centerZ> <radius>
+    permission: randomtp.use
